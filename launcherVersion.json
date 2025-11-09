@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "downloadUrl": "https://github.com/vaelz-dev/EclypsiaProjet/releases/download/v1.0.1/EclypsiaLauncher_v1.0.1.zip",
+  "version": "1.0.2",
+  "downloadUrl": "https://github.com/vaelz-dev/EclypsiaProjet/releases/download/v1.0.2/EclypsiaLauncher_v1.0.2.zip",
   "changelog": "Première version avec système de mise à jour",
   "mandatory": false
 }
