@@ -1,6 +1,6 @@
 {
   "version": "1.0.3",
-  "downloadUrl": "https://github.com/vaelz-dev/EclypsiaProjet/releases/download/v1.0.2/LauncherEclypsia.exe",
-  "changelog": "🎮 Eclypsia Launcher v1.0.2\n\n✨ Nouveautés:\n- Interface Tribu Edition avec animations violettes\n- Système de mise à jour automatique\n- Téléchargement automatique de Java, mods\n- Profils utilisateur\n⚔ Prêt pour le combat sur Eclypsia!",
+  "downloadUrl": "https://github.com/vaelz-dev/EclypsiaProjet/releases/download/v1.0.3/LauncherEclypsia.exe",
+  "changelog": "🎮 Eclypsia Launcher v1.0.3\n\n✨ Nouveautés:\n- Interface Tribu Edition avec animations violettes\n- Système de mise à jour automatique\n- Téléchargement automatique de Java, mods\n- Profils utilisateur\n⚔ Prêt pour le combat sur Eclypsia!",
   "mandatory": false
 }
