@@ -1,6 +1,6 @@
 {
-  "version": "1.0.34",
-  "downloadUrl": "https://github.com/vaelz-dev/EclypsiaProjet/releases/download/v1.0.34/LauncherEclypsia.exe",
-  "changelog": "🎮 Eclypsia Launcher v1.0.32\n\n🔐 Anti-Cheat:\n- Détection DLLs de triche en temps réel\n- Détection injections manuelles (VirtualQueryEx)\n- Surveillance processus suspects (CheatEngine, x64dbg...)\n- Vérification intégrité des mods\n- Ban/kick automatique RCON + rapport Discord\n\n🚀 Launcher:\n- Téléchargement parallèle Java, Forge, Mods\n- Versionning des mods (MAJ uniquement si nécessaire)\n- JVM optimisée G1GC\n\n🔄 Mises à jour:\n- Téléchargement avec progression\n- Installation auto + UAC Windows\n- Redémarrage automatique\n\n🔑 Auth:\n- Connexion Azuriom avec token Bearer\n- Option Se souvenir de moi\n\n⚔ Prêt pour le combat sur Eclypsia!",
+  "version": "1.0.33",
+  "downloadUrl": "https://github.com/vaelz-dev/EclypsiaProjet/releases/download/v1.0.33/LauncherEclypsia.exe",
+  "changelog": "🎮 Eclypsia Launcher v1.0.33\n\n🔐 Anti-Cheat:\n- Détection DLLs de triche en temps réel\n- Détection injections manuelles (VirtualQueryEx)\n- Surveillance processus suspects (CheatEngine, x64dbg...)\n- Vérification intégrité des mods\n- Ban/kick automatique RCON + rapport Discord\n\n🚀 Launcher:\n- Téléchargement parallèle Java, Forge, Mods\n- Versionning des mods (MAJ uniquement si nécessaire)\n- JVM optimisée G1GC\n\n🔄 Mises à jour:\n- Téléchargement avec progression\n- Installation auto + UAC Windows\n- Redémarrage automatique\n\n🔑 Auth:\n- Connexion Azuriom avec token Bearer\n- Option Se souvenir de moi\n\n⚔ Prêt pour le combat sur Eclypsia!",
   "mandatory": false
 }
